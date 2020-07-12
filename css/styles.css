@@ -1,5 +1,5 @@
 body{
-    background-color:#e5edb7;
+    background-color: aliceblue;
 }
 hr{
     border-style: none;
@@ -8,3 +8,7 @@ hr{
     border-width: 5px;
     width: 5%;
 }
+h1, h3{
+    color: #66BFBF;
+}
+
